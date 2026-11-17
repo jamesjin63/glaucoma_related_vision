@@ -1,0 +1,12 @@
+/data/local/
+/results/
+__pycache__/
+*.py[cod]
+.Rhistory
+.RData
+.Rproj.user/
+*.rds
+.venv/
+.env
+.env.*
+.DS_Store
